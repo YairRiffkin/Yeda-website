@@ -1,0 +1,432 @@
+{
+  "landing": {
+    "companyName": "Yeda Solutions",
+    "descriptorPrimary": "Manufacturing & Operations Optimization",
+    "descriptorSecondary": "Data-Driven Performance • Measurable Results",
+    "headline": "How much money is your operation failing to capture?",
+    "subline": "We expose hidden inefficiencies and turn them into measurable bottom-line results.",
+    "cta": "See where you’re losing money",
+    "founder": {
+      "name": "Yair Riffkin",
+      "title": "Founder & CEO",
+      "bio": "Yair Riffkin is a chemical engineer with an MBA and over 30 years of hands-on experience across manufacturing operations, enterprise systems, and industrial projects in diverse industries and international environments.\n\nHe operates at the intersection of factory operations, data, and automation, exposing inefficiencies that impact financial performance.\n\nHis focus is simple: turning operational complexity into measurable bottom-line results."
+    }
+  },
+  "main": {
+    "backToHome": "Back to Home",
+    "slogan": "Simplifying Complexity. Driving Results.",
+    "footer": {
+      "companyName": "Yeda Solutions",
+      "copyright": "© {year} Yeda Solutions. All rights reserved.",
+      "builtBy": "Site designed & built by Yair Riffkin."
+    },
+    "contact": {
+      "emailAria": "Email us",
+      "emailText": "Email",
+      "linkedinAria": "LinkedIn",
+      "linkedinText": "LinkedIn"
+    },
+    "vision": {
+      "title": "Our Approach",
+      "p1": "Yeda Solutions was founded on a simple belief: operational excellence is the foundation of sustainable competitive advantage.",
+      "p2": "With over two decades of hands-on experience in manufacturing environments, we bring a pragmatic, data-driven approach to every engagement. We don't just consult—we partner with your team to implement lasting change.",
+      "p3": "Our methodology combines lean principles, statistical process control, and modern analytics to identify opportunities and deliver measurable improvements."
+    },
+    "caseStudies": {
+      "title": "Case Studies"      
+    },
+    "reading": {
+      "title": "Recommended Reading",
+      "items":  [
+                    {
+                      "slug": "a-short-history-of-nearly-everything",
+                      "title": "A Short History of Nearly Everything",
+                      "author": "Bill Bryson",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "An accessible and humorous overview of scientific discoveries that shaped our understanding of the universe.",
+                      "myTake": "An easy read into the most complex scientific issues. I loved the insights and storytelling nature of this book.",
+                      "publicReviewExcerpt": "Bryson explains complex scientific topics with clarity and wit.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/5602347"
+                    },
+                    {
+                      "slug": "bicycle-boy",
+                      "title": "Bicycle Boy",
+                      "author": "Eli Amir",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A coming-of-age novel set against the backdrop of immigrant life in Israel.",
+                      "myTake": "A first hand testimony to the complexity and the emotional attachment that goes with the story of the creation of Israel and the immigration that came with it.",
+                      "publicReviewExcerpt": "Amir portrays youth, identity, and social tension in early Israeli society.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/53735731"
+                    },
+                    {
+                      "slug": "blue-ocean-strategy",
+                      "title": "Blue Ocean Strategy",
+                      "author": "W. Chan Kim, Renée Mauborgne",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "A framework for creating uncontested market space and making competition irrelevant.",
+                      "myTake": "One of these books that you must read, every one talks about, but so few actually implement.",
+                      "publicReviewExcerpt": "Argues that lasting success comes from creating new demand rather than competing head-to-head.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/4898"
+                    },
+                    {
+                      "slug": "built-to-last",
+                      "title": "Built to Last",
+                      "author": "James C. Collins, Jerry I. Porras",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "A study of visionary companies and the principles that enable long-term success.",
+                      "myTake": "Gave me perspective and understanding of what true vision is, the difference from strategy and it's importance in the business world.",
+                      "publicReviewExcerpt": "The authors identify core ideologies and practices that distinguish enduring companies from competitors.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/4122"
+                    },
+                    {
+                      "slug": "children-of-the-stars",
+                      "title": "Children of the Stars",
+                      "author": "Mario Escobar",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A historical novel centered on children caught in the upheavals of war.",
+                      "myTake": "A must read to restore our belief in the goodness of mankind and that good will prevail.",
+                      "publicReviewExcerpt": "Escobar tells a story of survival and humanity during one of history’s darkest periods.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/49898269"
+                    },
+                    {
+                      "slug": "creating-a-world-without-poverty",
+                      "title": "Creating a World Without Poverty",
+                      "author": "Muhammad Yunus",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "A blueprint for social business as a tool to eradicate poverty.",
+                      "myTake": "A very down to earth and practical explanation on the mechanism of poverty and a viable vision on how to reduce it.",
+                      "publicReviewExcerpt": "Yunus outlines how social businesses can address global poverty without relying on charity.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/247204"
+                    },
+                    {
+                      "slug": "critical-chain",
+                      "title": "Critical Chain",
+                      "author": "Eliyahu M. Goldratt",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "A novel introducing Critical Chain Project Management within the Theory of Constraints.",
+                      "myTake": "As an admirer of Dr. Goldratt's theories - this together with THE GOAL, are a must read for anyone doing his first steps in the operational world of manufacturing.",
+                      "publicReviewExcerpt": "Goldratt applies TOC principles to project management through a business novel.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/848514"
+                    },
+                    {
+                      "slug": "crossing",
+                      "title": "Crossing",
+                      "author": "Amiram Azov",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "An account of the Suez Canal crossing during the Yom Kippur War.",
+                      "myTake": "A masterpiece of strategic war fare, this encounter from the 1973 Yom Kipur war is fascinating and shows that the tipping point is not victory yet.",
+                      "publicReviewExcerpt": "A detailed narrative of one of the most critical operations in Israel’s military history.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/30688607"
+                    },
+                    {
+                      "slug": "do-chimpanzees-think-about-retirement",
+                      "title": "Do Chimpanzees Think About Retirement?",
+                      "author": "Yaakov (Jacob) Burak",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "An exploration of human decision-making biases through evolutionary and organizational perspectives.",
+                      "myTake": "I just loved reading this book where Jacob Burak humbly describes the volatility and randomness of the investment trade.",
+                      "publicReviewExcerpt": "Burak examines why people make irrational decisions in business and life, drawing on psychology and evolution.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/11406563"
+                    },
+                    {
+                      "slug": "do-not-say-we-have-nothing",
+                      "title": "Do Not Say We Have Nothing",
+                      "author": "Madeleine Thien",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A novel about art, memory, and political repression in modern Chinese history.",
+                      "myTake": "With todays hype around China this is a strong reminder that revolutions have many faces and some are harsh and cruel.",
+                      "publicReviewExcerpt": "The novel interweaves personal stories with China’s recent past, focusing on music, silence, and resistance.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/31549906"
+                    },
+                    {
+                      "slug": "if-this-is-a-man",
+                      "title": "If This Is a Man",
+                      "author": "Primo Levi",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "A survivor’s account of life in Auschwitz and a profound examination of human dignity under extreme dehumanization.",
+                      "myTake": "So much to take from this book about resilience, meaning, and hope — and beyond that, profound lessons on leadership, management, and even the economics of shortage.",
+                      "publicReviewExcerpt": "Levi recounts his imprisonment in Auschwitz, reflecting on morality, memory, and survival.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/6181"
+                    },
+                    {
+                      "slug": "men-are-from-mars-women-are-from-venus",
+                      "title": "Men Are from Mars, Women Are from Venus",
+                      "author": "John Gray",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "A practical guide to understanding communication differences between men and women.",
+                      "myTake": "I received this iconic book from a former partner who thought I had something to learn about relationships. I can’t claim the experiment was a success — but I can definitely recommend the book.",
+                      "publicReviewExcerpt": "The book proposes that many relationship problems stem from fundamental differences in communication styles.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/1274"
+                    },
+                    {
+                      "slug": "men-like-gods",
+                      "title": "Men Like Gods",
+                      "author": "H. G. Wells",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A speculative novel exploring an advanced utopian society and the limits of human understanding.",
+                      "myTake": "One of the lesser-known works of the visionary and foundational author H. G. Wells. A futuristic utopia that first inspires hope for what humanity could become — and ultimately reminds you to accept the fixed nature of who we are.",
+                      "publicReviewExcerpt": "Wells contrasts human society with a technologically advanced utopia to examine social evolution.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/807695"
+                    },
+                    {
+                      "slug": "on-competition",
+                      "title": "On Competition",
+                      "author": "Michael E. Porter",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "A collection of Michael Porter’s seminal essays on competition, competitive advantage, and economic performance.",
+                      "myTake": "Strategy at its core. This fundamental book by industry thinker Michael Porter remains as relevant today as when it was written. While many try to reinterpret it for the modern economy, I prefer to take it as it is.",
+                      "publicReviewExcerpt": "A compilation of Porter’s key writings that address competition at the level of firms, industries, and nations.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/134775"
+                    },
+                    {
+                      "slug": "on-the-edge",
+                      "title": "On the Edge",
+                      "author": "Aviram Barkai",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "A personal and strategic reflection on command, decision-making, and responsibility under pressure.",
+                      "myTake": "A profoundly moving book about courage and sacrifice — the kind that, fortunately, occurs only once in a generation, if at all. Beyond the gripping story of Brigade 188 in the battle for the Golan Heights, I took from it the power of drill under extreme conditions and the critical importance of mission clarity. It pains me to think of those young men who fell believing they had failed, when in reality they fought a battle that stands today as a model studied in military academies around the world.",
+                      "publicReviewExcerpt": "Barkai reflects on leadership and judgment formed in extreme operational environments.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/209186549"
+                    },
+                    {
+                      "slug": "people-love-dead-jews",
+                      "title": "People Love Dead Jews",
+                      "author": "Dara Horn",
+                      "category": "Culture, Identity & Memory",
+                      "oneLiner": "A critical examination of how Jewish history and suffering are remembered and distorted.",
+                      "myTake": "An astounding account of antisemitism. Written with critical honesty, it does not avoid the difficult questions and forces necessary introspection.",
+                      "publicReviewExcerpt": "Horn challenges the way Jewish death is memorialized while Jewish life is ignored.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/56769532"
+                    },
+                    {
+                      "slug": "predictably-irrational",
+                      "title": "Predictably Irrational",
+                      "author": "Dan Ariely",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "An examination of the hidden forces that shape our decisions and behavior.",
+                      "myTake": "It would be a mistake to assume that behavioral psychology is not essential for managers. Ariely’s books make this field accessible, grounded, and practical — an excellent way to understand how people actually think and act.",
+                      "publicReviewExcerpt": "Ariely shows that people repeatedly make irrational decisions in predictable ways.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/1713426"
+                    },
+                    {
+                      "slug": "sophies-world",
+                      "title": "Sophie's World",
+                      "author": "Jostein Gaarder",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A novel that introduces the history of philosophy through a fictional narrative.",
+                      "myTake": "A fantastic mind blowing book. Unfolding western philosophy written as a novel with a story within a story of a world within a worls. Fantastic!",
+                      "publicReviewExcerpt": "A philosophical mystery that doubles as an accessible history of Western philosophy.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/10959"
+                    },
+                    {
+                      "slug": "story",
+                      "title": "Story",
+                      "author": "Robert McKee",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A foundational guide to storytelling structure, character, and narrative design.",
+                      "myTake": "This book seemed to pick me out at a book fair. Reading it made me realize that as managers and leaders, we are all storytellers — and the quality of the story we tell is a measure of leadership.",
+                      "publicReviewExcerpt": "McKee explores the principles of dramatic structure that underlie effective storytelling across media.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/48654"
+                    },
+                    {
+                      "slug": "surrounded-by-idiots",
+                      "title": "Surrounded by Idiots",
+                      "author": "Thomas Erikson",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "A popular introduction to personality types and communication styles.",
+                      "myTake": "I didn’t quite make it to the end, but it offers a useful guide to adapting your rhythm to those around you — not fixing the world, just understanding it better.",
+                      "publicReviewExcerpt": "Erikson presents a color-based model to explain why people behave and communicate differently.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/39101777"
+                    },
+                    {
+                      "slug": "the-art-of-hearing-heartbeats",
+                      "title": "The Art of Hearing Heartbeats",
+                      "author": "Jan-Philipp Sendker",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A love story about listening, patience, and emotional presence.",
+                      "myTake": "Every so often you encounter words that sing to the soul. A magical love story infused with profound Buddhist philosophy, wrapped in a level of verbal artistry I can only admire.",
+                      "publicReviewExcerpt": "A quiet novel about intimacy and understanding beyond spoken language.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/11331421"
+                    },
+                    {
+                      "slug": "the-art-of-war",
+                      "title": "The Art of War",
+                      "author": "Sun Tzu",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "An ancient treatise on strategy, leadership, and conflict.",
+                      "myTake": "A lecturer once told me that everyone quotes The Art of War, but few have actually read it. I took that as a mission and concluded that while the quotes are memorable, the book itself is invaluable when it comes to the fundamentals of strategy.",
+                      "publicReviewExcerpt": "A foundational text on military strategy that has influenced business and political thinking.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/10534"
+                    },
+                    {
+                      "slug": "the-goal",
+                      "title": "The Goal",
+                      "author": "Eliyahu M. Goldratt",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "A business novel about improving manufacturing performance using the Theory of Constraints.",
+                      "myTake": "As an admirer of Dr. Goldratt's theories - this together with CRITICAL CHAIN, are a must read for anyone doing his first steps in the operational world of manufacturing.",
+                      "publicReviewExcerpt": "Introduces TOC concepts through the story of a plant manager under pressure.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/113934"
+                    },
+                    {
+                      "slug": "the-history-of-tomorrow",
+                      "title": "Homo Deus: A Brief History of Tomorrow",
+                      "author": "Yuval Noah Harari",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A sweeping narrative of human history from cognitive revolution to the present.",
+                      "myTake": "A great read that explains not only the chronological unfolding of human evolution, but how changing human conditions — from hunters and gatherers to villages and societies — shaped the development of morality, and from there religion and culture. A well-written work that leaves much to reflect on.",
+                      "publicReviewExcerpt": "Harari explores how biology and history defined us and enhanced our understanding of what it means to be human.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/31138556"
+                    },
+                    {
+                      "slug": "the-kite-runner",
+                      "title": "The Kite Runner",
+                      "author": "Khaled Hosseini",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A novel of friendship, guilt, and redemption set against Afghanistan’s turbulent history.",
+                      "myTake": "I truly enjoyed this book. It offers a powerful narrative about the destructive force of fundamentalism and the strength of free thought and spirit. One moment that stayed with me is Amir’s father’s view that morality can be reduced to a single principle — not taking what is not yours — with everything else being interpretation.",
+                      "publicReviewExcerpt": "Hosseini tells a story of betrayal and atonement spanning decades of Afghan history.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/77203"
+                    },
+                    {
+                      "slug": "the-march-of-folly",
+                      "title": "The March of Folly",
+                      "author": "Barbara W. Tuchman",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "An analysis of historical cases where governments pursued policies contrary to their own interests.",
+                      "myTake": "This book needs no introduction. Reflecting on Tuchman’s definition of folly, it makes you wonder how—despite today’s abundance of data—leaders still make critical decisions without properly assessing their starting point.",
+                      "publicReviewExcerpt": "Tuchman examines recurring patterns of political folly from antiquity to modern times.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/10302"
+                    },
+                    {
+                      "slug": "the-secret",
+                      "title": "The Secret",
+                      "author": "Rhonda Byrne",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A popular self-help book centered on the concept of the law of attraction.",
+                      "myTake": "I was introduced to this book by my daughter when she was eight or nine, during a challenging period for both of us. It shows that insight and good advice can come from unexpected places. Simple and somewhat utopian, yet a gentle guide to the brighter side of life.",
+                      "publicReviewExcerpt": "Promotes the idea that positive thinking can influence life outcomes.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/52529"
+                    },
+                    {
+                      "slug": "the-stick-and-the-carrot",
+                      "title": "The Stick and the Carrot",
+                      "author": "Shlomo Gazit",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "An analysis of Israel’s policy tools in security and statecraft.",
+                      "myTake": "A compelling first-hand perspective on the events of the summer of 1967 that have shaped life in Israel for more than half a century. It shows how solutions intended to be temporary can solidify into a permanent reality for a nation and a region.",
+                      "publicReviewExcerpt": "Gazit examines the balance between coercion and incentives in national security policy.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/6798810"
+                    },
+                    {
+                      "slug": "the-teachings-of-don-juan",
+                      "title": "The Teachings of Don Juan",
+                      "author": "Carlos Castaneda",
+                      "category": "Philosophy, Literature & Storytelling",
+                      "oneLiner": "A controversial exploration of shamanism, perception, and altered states of consciousness.",
+                      "myTake": "I came across this book by pure chance, and it became a kind of mentor to this world for me. The philosophy embedded in the teachings of the shaman Don Juan, conveyed through Carlos Castaneda’s steady hand, carries remarkable depth and truth. This is the first of a six-book series I recommend reading with a clear mind and an open heart.",
+                      "publicReviewExcerpt": "Castaneda recounts his apprenticeship with a Yaqui sorcerer and the worldview it revealed.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/78250"
+                    },
+                    {
+                      "slug": "the-upside-of-irrationality",
+                      "title": "The Upside of Irrationality",
+                      "author": "Dan Ariely",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "A look at how irrational behavior can sometimes lead to positive outcomes.",
+                      "myTake": "It would be a mistake to assume that behavioral psychology is not essential for managers. Ariely’s books make this field accessible, grounded, and practical — an excellent way to understand how people actually think and act.",
+                      "publicReviewExcerpt": "Explores how irrationality affects motivation, creativity, and productivity.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/7815744"
+                    },
+                    {
+                      "slug": "the-world-is-flat",
+                      "title": "The World Is Flat",
+                      "author": "Thomas L. Friedman",
+                      "category": "Strategy, Management & Systems",
+                      "oneLiner": "An analysis of globalization and the forces reshaping the global economy.",
+                      "myTake": "Written by a world-renowned journalist, this is a comprehensive review of global powers and how they shape the economy and investment in technological advancement.",
+                      "publicReviewExcerpt": "Friedman argues that technology and globalization have leveled the competitive playing field.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/1911"
+                    },
+                    {
+                      "slug": "thinking-fast-and-slow",
+                      "title": "Thinking, Fast and Slow",
+                      "author": "Daniel Kahneman",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "A landmark work explaining the two systems that drive human thinking and decision-making.",
+                      "myTake": "A Nobel laureate who needs no introduction. I found it fascinating to understand the non-linear nature of human behavior — how what appears impulsive and illogical is often a product of evolution and survival, with its own internal logic.",
+                      "publicReviewExcerpt": "Kahneman describes fast intuitive thinking and slow deliberate reasoning and their biases.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/11468377"
+                    },
+                    {
+                      "slug": "thinking-strategically",
+                      "title": "Thinking Strategically",
+                      "author": "Avinash K. Dixit, Barry J. Nalebuff",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "An introduction to game theory and strategic decision-making.",
+                      "myTake": "A well-written and compelling introduction to the field of behavioral psychology. Recommended as a gateway into this area of science.",
+                      "publicReviewExcerpt": "Explains how game theory applies to business, politics, and everyday life.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/103592"
+                    },
+                    {
+                      "slug": "volokolamsk-highway",
+                      "title": "Volokolamsk Highway",
+                      "author": "Alexander Bek",
+                      "category": "Politics, Society & History",
+                      "oneLiner": "A novelized account of Soviet soldiers during World War II.",
+                      "myTake": "This book was once required reading in officers’ courses — unfortunately not in my time — yet it remains essential for understanding leadership, strategy, and the role of time and pace as critical elements of any plan. The novel illustrates how mastery of time allows a commander to absorb setbacks without losing strategic focus.",
+                      "publicReviewExcerpt": "Based on real events, the book portrays leadership and endurance during the defense of Moscow.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/1769643"
+                    },
+                    {
+                      "slug": "who-moved-my-cheese",
+                      "title": "Who Moved My Cheese?",
+                      "author": "Spencer Johnson",
+                      "category": "Decision Making & Human Behavior",
+                      "oneLiner": "A parable about dealing with change in work and life.",
+                      "myTake": "A popular book at the time. Simplistic and at times banal, yet it conveys an important message about taking ownership and responsibility for one’s own destiny.",
+                      "publicReviewExcerpt": "Uses a simple story to illustrate attitudes toward change and adaptation.",
+                      "publicReviewUrl": "https://www.goodreads.com/book/show/4894"
+                    }
+                ]
+                },
+    "industryExperience": {
+      "titleLine1": "Industry",
+      "titleLine2": "Experience",
+      "logos": [
+        { 
+          "src": "/src/assets/logos/PaperHadera.png", 
+          "company": "AIPM" ,
+          "industry": "Printing Paper"
+        },
+        { 
+          "src": "/src/assets/logos/Haifa.png", 
+          "company": "" ,
+          "industry": "Chemical Process"
+        },
+                { 
+          "src": "/src/assets/logos/Shemen.png", 
+          "company": "Shemen Indusries" ,
+          "industry": "Food industry"
+        },
+        { 
+          "src": "/src/assets/logos/FinnProtein.png", 
+          "company": "" ,
+          "industry": "Soya Protein"
+        },
+        { 
+          "src": "/src/assets/logos/Papillon.png", 
+          "company": "" ,
+          "industry": "Cosmetics"
+        },
+        { 
+          "src": "/src/assets/logos/KC.png", 
+          "company": "Kimberly Clark" ,
+          "industry": "Tissue Paper"
+        }
+      ]
+    }
+  }
+}
+
+
