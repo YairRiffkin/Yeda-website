@@ -395,32 +395,32 @@
       "titleLine2": "Experience",
       "logos": [
         { 
-          "src": "/src/assets/logos/PaperHadera.png", 
+          "src": "/public/logos/PaperHadera.png", 
           "company": "AIPM" ,
           "industry": "Printing Paper"
         },
         { 
-          "src": "/src/assets/logos/Haifa.png", 
+          "src": "/public/logos/Haifa.png", 
           "company": "" ,
           "industry": "Chemical Process"
         },
                 { 
-          "src": "/src/assets/logos/Shemen.png", 
+          "src": "/public/logos/Shemen.png", 
           "company": "Shemen Indusries" ,
           "industry": "Food industry"
         },
         { 
-          "src": "/src/assets/logos/FinnProtein.png", 
+          "src": "/public/logos/FinnProtein.png", 
           "company": "" ,
           "industry": "Soya Protein"
         },
         { 
-          "src": "/src/assets/logos/Papillon.png", 
+          "src": "/public/logos/Papillon.png", 
           "company": "" ,
           "industry": "Cosmetics"
         },
         { 
-          "src": "/src/assets/logos/KC.png", 
+          "src": "/public/logos/KC.png", 
           "company": "Kimberly Clark" ,
           "industry": "Tissue Paper"
         }
