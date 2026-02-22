@@ -406,11 +406,11 @@ const Main = () => {
                     ) => (
                       <div
                         key={index}
-                        className="w-8 h-8 sm:w-9 sm:h-9 lg:w-20 lg:h-20 rounded-md border border-border/30 bg-muted/30 overflow-hidden"
+                        className="w-16 sm:w-20 lg:w-20 rounded-md border border-border/30 bg-muted/30 overflow-hidden"
                       >
                         <div className="flex h-full flex-col">
                           {/* Logo area */}
-                          <div className="relative flex-1">
+                          <div className="relative h-10 sm:h-12 lg:h-14">
                             <img
                               src={logo.src}
                               alt={logo.company}

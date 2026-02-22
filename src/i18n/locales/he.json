@@ -447,32 +447,32 @@
       "titleLine2": "תעשייתי",
       "logos": [
         { 
-          "src": "/src/assets/logos/PaperHadera.png", 
+          "src": "/logos/PaperHadera.png", 
           "company": "" ,
           "industry": "נייר כתיבה והדפסה"
         },
         { 
-          "src": "/src/assets/logos/Haifa.png", 
+          "src": "/logos/Haifa.png", 
           "company": "" ,
           "industry": "תעשייה תהליכית"
         },
         { 
-          "src": "/src/assets/logos/Shemen.png", 
+          "src": "/logos/Shemen.png", 
           "company": "" ,
           "industry": "תעשיית מזון"
         },
         { 
-          "src": "/src/assets/logos/FinnProtein.png", 
+          "src": "/logos/FinnProtein.png", 
           "company": "פינפרוטאין" ,
           "industry": "חלבון סויה"
         },
         { 
-          "src": "/src/assets/logos/Papillon.png", 
+          "src": "/logos/Papillon.png", 
           "company": "פפילון - רומניה" ,
           "industry": "קוסמטיקה"
         },
         { 
-          "src": "/src/assets/logos/KC.png", 
+          "src": "/logos/KC.png", 
           "company": "קימברלי קלארק" ,
           "industry": "נייר ביתי"
         }
