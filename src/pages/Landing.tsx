@@ -17,7 +17,7 @@ const Landing = () => {
       {/* Hero Section */}
       <main 
         className="flex-1 flex items-center relative bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url(/hero-bg.jpeg)" }}
+        style={{ backgroundImage: "url(/hero-bg.jpg)" }}
       >
         <div className="absolute inset-0 bg-black/25" />
         <div className="container-main w-full py-section relative z-10">
