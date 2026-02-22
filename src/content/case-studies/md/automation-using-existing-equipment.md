@@ -26,7 +26,7 @@ The client operated an aging agrifood processing plant where throughput hinged o
 
 Instrumentation was primitive. Mechanical detectors triggered only when buildup was already severe. Vision systems were proposed but rejected due to dust, housekeeping complexity, and cost. Physical block removal was arduous and hazardous, reinforcing operator reluctance to raise feeder speeds.
 
-![](/src/assets/case-studies/automation-using-existing-equipment/img-001.png)
+![](/automation-using-existing-equipment/img-001.jpg)
 
 
 
@@ -40,7 +40,7 @@ Instrumentation was primitive. Mechanical detectors triggered only when buildup 
 
 - Needed to work with existing motors, detectors, and SCADA only
 
-![](/src/assets/case-studies/automation-using-existing-equipment/img-002.png)
+![](/automation-using-existing-equipment/img-002.jpg)
 
 
 
@@ -50,7 +50,7 @@ The goal was to automate where manual control caused avoidable inefficiencies. O
 
 The problem wasn't lack of data—it was poor resolution and reactive logic. By capturing high-frequency data and correlating it with failure events, we could define control thresholds that predicted trouble before it occurred.
 
-![](/src/assets/case-studies/automation-using-existing-equipment/img-003.png)
+![](/automation-using-existing-equipment/img-003.jpg)
 
 
 
@@ -80,7 +80,7 @@ We then created a soft logic routine:
 
 This closed-loop logic mimicked operator caution—but with faster, more consistent response.
 
-![](/src/assets/case-studies/automation-using-existing-equipment/img-004.png)
+![](/automation-using-existing-equipment/img-004.jpg)
 
 
 

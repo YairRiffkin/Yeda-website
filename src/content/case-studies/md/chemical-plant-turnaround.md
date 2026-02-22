@@ -29,7 +29,7 @@ A traditional chemical manufacturing plant faced operational turbulence on multi
 
 The core obstacle was a deeply embedded culture of over-engineering and deference to legacy assumptions. Safety concerns—justified given the use of corrosive, flammable, and potentially explosive materials—had over time hardened into rigid operational dogmas. Internal and external engineering voices dominated the decision-making process, often relying on averaged observations elevated to the level of unquestioned truth. Risk aversion and consensus-seeking further cemented these taboos. As a result, critical parts of the chemical reaction process were intentionally underutilized, despite existing evidence of safe margins for increased throughput. Meanwhile, other parts of the plant ran below nominal capacity due to instability or chronic neglect—creating hidden constraints that were misattributed or ignored.
 
-![](/src/assets/case-studies/chemical-plant-turnaround/img-001.png)
+![](/chemical-plant-turnaround/img-001.jpg)
 
 
 
@@ -39,7 +39,7 @@ The prevailing belief in the plant was that utilization hovered around 85%, base
 
 Using Lost Time Analysis (LTA), performance was recalibrated against the nominal design capacity, reestablishing a true 100% benchmark. From this vantage point, actual output translated to an effective OEE of around 60%—revealing a much larger opportunity gap than management had assumed.
 
-![](/src/assets/case-studies/chemical-plant-turnaround/img-002.png)
+![](/chemical-plant-turnaround/img-002.jpg)
 
 The explanation lay in the structure of the process: a series of interdependent units connected by buffers. While each stage—reaction, separation, solvent recovery—could perform near its peak in isolation, the lack of synchronization between them led to compounding inefficiencies. Temporary mismatches created flow disruptions, starving or overloading adjacent steps.
 
@@ -70,7 +70,7 @@ Seasonal heat reduced cooling performance, affecting yield and quality. Re-activ
 A Cyclical, Data-Driven Process
 These changes unfolded over nearly three years through observation, data collection, and incremental action. Each round clarified the system and engaged the team further. The site manager who had once laughed at the idea of a 50% gain ultimately saw a near-doubling of output—achieved not through massive spending, but through aligned operations and evidence-based decision-making.
 
-![](/src/assets/case-studies/chemical-plant-turnaround/img-003.png)
+![](/chemical-plant-turnaround/img-003.jpg)
 
 
 

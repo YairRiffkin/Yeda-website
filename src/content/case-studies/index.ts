@@ -100,27 +100,4 @@ export const CASE_STUDIES: CaseStudyMeta[] = [
       he: "קפיצת מדרגה באיכות ובעלות",
     },
   },
-  {
-    slug: "vegetable-oil-refinery-case-study-yeda",
-    title: {
-      en: "The Refinery Reset",
-      he: "איפוס בית הזיקוק",
-    },
-    industry: {
-      en: "Food Production",
-      he: "ייצור מזון",
-    },
-    focus: {
-      en: "Vegetable Oil Refining Capacity Expansion Under Constraint",
-      he: "הרחבת קיבולת זיקוק שמן צמחי תחת מגבלה",
-    },
-    teaser: {
-      en: "Doubling capacity within the same footprint by identifying a hidden bottleneck (bypassed heat exchanger) and reactivating process design.",
-      he: "הכפלת הקיבולת באותו שטח באמצעות איתור צוואר בקבוק נסתר (מחליף חום שנעקף) והחזרת תכנון התהליך לפעולה.",
-    },
-    result: {
-      en: "Full capacity with margin",
-      he: "קיבולת מלאה עם מרווח",
-    },
-  },
 ];

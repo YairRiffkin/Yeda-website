@@ -13,7 +13,8 @@ Focus: Steam System Efficiency and Operational Planning
 
 - Shifted production policy from reactive cost-cutting to proactive energy efficiency
 
-![](/src/assets/case-studies/power-of-data-case-study-yeda/img-001.png)
+![](/power-of-data-case-study-yeda/img-001.jpg
+)
 
 
 
@@ -23,7 +24,8 @@ The plant operated in the agrifood sector, where steam accounted for around 15% 
 
 The steam system suffered from zero-load energy waste—fuel spent just to maintain readiness—and a lack of basic instrumentation. SCADA infrastructure was outdated and there was no MES in place. Deferred maintenance had left insulation degraded and heat exchangers corroded or bypassed entirely. With separate departments managing boiler and process systems, systemic waste went unnoticed.
 
-![](/src/assets/case-studies/power-of-data-case-study-yeda/img-002.png)
+![](/power-of-data-case-study-yeda/img-002.jpg
+)
 
 
 
@@ -61,7 +63,8 @@ Cross-functional Enablement
 
 Improved visibility and data access allowed planning, maintenance, and operations to align. This removed legacy silos and made better decisions possible across departments.
 
-![](/src/assets/case-studies/power-of-data-case-study-yeda/img-003.png)
+![](/power-of-data-case-study-yeda/img-003.jpg
+)
 
 
 
@@ -75,7 +78,8 @@ Improved visibility and data access allowed planning, maintenance, and operation
 
 - Cultural shift from energy avoidance to output efficiency
 
-![](/src/assets/case-studies/power-of-data-case-study-yeda/img-004.png)
+![](/power-of-data-case-study-yeda/img-004.jpg
+)
 
 
 
