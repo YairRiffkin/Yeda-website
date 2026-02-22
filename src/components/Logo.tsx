@@ -15,7 +15,7 @@ const Logo = ({ size = "md", showText = true, variant = "dark" }: LogoProps) => 
   };
   const { dict } = useI18n();
   const companyName = dict.main.footer.companyName;
-  const src = variant === "light" ? "/yeda-logo-light.png" : "/yeda-logo-dark.png";
+  const src = variant === "light" ? "/yeda-logo-light.jpeg" : "/yeda-logo-dark.jpeg";
 
   return (
     <div className="flex items-center gap-3">
