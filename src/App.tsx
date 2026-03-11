@@ -9,6 +9,8 @@ import NotFound from "./pages/NotFound";
 import CaseStudy from "./pages/CaseStudy";
 import { useI18n } from "./i18n/I18nProvider";
 import Reading from "./pages/Reading";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Accessibility from "./pages/Accessibility";
 
 
 const queryClient = new QueryClient();
@@ -28,6 +30,8 @@ const App = () => {
               <Route path="/main" element={<Main />} />
               <Route path="/case-studies/:slug" element={<CaseStudy />} />
               <Route path="/reading/:slug" element={<Reading />} />
+              <Route path="/privacy" element={<PrivacyPolicy />} />
+              <Route path="/accessibility" element={<Accessibility />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>

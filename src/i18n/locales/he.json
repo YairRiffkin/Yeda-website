@@ -19,13 +19,22 @@
     "footer": {
       "companyName": "ידע פתרונות",
       "copyright": "© {year} ידע פתרונות. כל הזכויות שמורות.",
-      "builtBy": "האתר עוצב ונבנה על ידי יאיר ריפקין."
+      "builtBy": "האתר עוצב ונבנה על ידי יאיר ריפקין.",
+      "privacy": "מדיניות פרטיות",
+      "accessibility": "נגישות"
     },
     "contact": {
       "emailAria": "שלחו לנו אימייל",
       "emailText": "אימייל",
       "linkedinAria": "לינקדאין",
-      "linkedinText": "לינקדאין"
+      "linkedinText": "לינקדאין",
+      "emailModalTitle": "יצירת קשר",
+      "emailAddress": "yair.riffkin@gmail.com",
+      "openInGmail": "פתח ב-Gmail",
+      "openInOutlook": "Outlook Web",
+      "openMailApp": "אפליקציית דואר",
+      "copyEmail": "העתק אימייל",
+      "copied": "הועתק!"
     },
     "vision": {
       "title": "הגישה שלנו",

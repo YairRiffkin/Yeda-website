@@ -7,7 +7,7 @@ import { CASE_STUDIES } from "../content/case-studies/index";
 import ReactMarkdown from "react-markdown";
 import { X } from "lucide-react";
 import { getCaseStudyMarkdown } from "../content/case-studies/markdown";
-import { useMemo, useState } from "react";
+import { useMemo, useState, useCallback } from "react";
 import {
   Dialog,
   DialogContent,
@@ -70,6 +70,17 @@ const Main = () => {
     return noFrontmatter.replace(/^\s{0,3}#{1,6}[ \t]+.*\n+/, "");
   }, [activeSlug]);
 
+  const [openEmail, setOpenEmail] = useState(false);
+  const [emailCopied, setEmailCopied] = useState(false);
+  const EMAIL = t.contact.emailAddress;
+  const GMAIL_URL = `https://mail.google.com/mail/?view=cm&to=${EMAIL}`;
+  const OUTLOOK_URL = `https://outlook.live.com/mail/0/deeplink/compose?to=${EMAIL}`;
+  const handleCopyEmail = useCallback(() => {
+    navigator.clipboard.writeText(EMAIL);
+    setEmailCopied(true);
+    setTimeout(() => setEmailCopied(false), 2000);
+  }, [EMAIL]);
+
   const [readingCategory, setReadingCategory] = useState<string>("all");
 
   const categories = useMemo(() => {
@@ -121,14 +132,15 @@ const Main = () => {
             </p>
             {/* Right — Contact */}
             <div className="flex justify-center sm:justify-end gap-4">
-              <a
-                href="mailto:yair.riffkin@gmail.com"
+              <button
+                type="button"
+                onClick={() => setOpenEmail(true)}
                 className="link-nav flex items-center gap-2 text-sm hover:opacity-80"
                 aria-label={t.contact.emailAria}
               >
                 <Mail size={18} />
                 <span className="hidden sm:inline">{t.contact.emailText}</span>
-              </a>
+              </button>
               <a
                 href="https://www.linkedin.com/company/yeda-solutions"
                 target="_blank"
@@ -524,6 +536,52 @@ const Main = () => {
           </div>
         </div>
       )}
+
+      {/* Email contact modal */}
+      <Dialog open={openEmail} onOpenChange={setOpenEmail}>
+        <DialogContent
+          dir={lang === "he" ? "rtl" : "ltr"}
+          className={lang === "he" ? "text-right" : "text-left"}
+        >
+          <DialogHeader className={lang === "he" ? "text-right" : "text-left"}>
+            <DialogTitle>{t.contact.emailModalTitle}</DialogTitle>
+          </DialogHeader>
+          <div className="space-y-4 pt-1">
+            <p className="font-mono text-sm bg-muted px-3 py-2 rounded select-all">{EMAIL}</p>
+            <div className={`flex gap-3 flex-wrap ${lang === "he" ? "flex-row-reverse" : ""}`}>
+              <a
+                href={GMAIL_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity"
+              >
+                {t.contact.openInGmail}
+              </a>
+              <a
+                href={OUTLOOK_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity"
+              >
+                {t.contact.openInOutlook}
+              </a>
+              <a
+                href={`mailto:${EMAIL}`}
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity"
+              >
+                {t.contact.openMailApp}
+              </a>
+              <button
+                type="button"
+                onClick={handleCopyEmail}
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-border text-sm font-medium hover:bg-muted transition-colors"
+              >
+                {emailCopied ? t.contact.copied : t.contact.copyEmail}
+              </button>
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
 
       <Footer />
     </div>

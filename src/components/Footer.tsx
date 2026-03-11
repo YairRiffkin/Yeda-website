@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Logo from "./Logo";
 import { useI18n } from "../i18n/I18nProvider";
 
@@ -24,6 +25,15 @@ const Footer = () => {
           <p className="mt-1 text-xs text-muted-foreground/70">
             {ft.builtBy}
           </p>
+          <div className="mt-2 flex justify-center gap-3 text-xs text-muted-foreground/60">
+            <Link to="/privacy" className="hover:text-muted-foreground transition-colors">
+              {ft.privacy}
+            </Link>
+            <span>|</span>
+            <Link to="/accessibility" className="hover:text-muted-foreground transition-colors">
+              {ft.accessibility}
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

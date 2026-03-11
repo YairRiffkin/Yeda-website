@@ -18,13 +18,22 @@
     "footer": {
       "companyName": "Yeda Solutions",
       "copyright": "© {year} Yeda Solutions. All rights reserved.",
-      "builtBy": "Site designed & built by Yair Riffkin."
+      "builtBy": "Site designed & built by Yair Riffkin.",
+      "privacy": "Privacy Policy",
+      "accessibility": "Accessibility"
     },
     "contact": {
       "emailAria": "Email us",
       "emailText": "Email",
       "linkedinAria": "LinkedIn",
-      "linkedinText": "LinkedIn"
+      "linkedinText": "LinkedIn",
+      "emailModalTitle": "Contact Us",
+      "emailAddress": "yair.riffkin@gmail.com",
+      "openInGmail": "Open in Gmail",
+      "openInOutlook": "Outlook Web",
+      "openMailApp": "Mail App",
+      "copyEmail": "Copy Email",
+      "copied": "Copied!"
     },
     "vision": {
       "title": "Our Approach",
