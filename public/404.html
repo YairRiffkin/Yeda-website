@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="0; url=/" />
     <script>
-      window.location.replace("/");
+      sessionStorage.setItem('redirect', window.location.pathname);
+      window.location.replace('/');
     </script>
   </head>
   <body></body>
